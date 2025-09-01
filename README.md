@@ -42,19 +42,17 @@ Fun fact: If a project excites me, I’ll likely spend hours debugging just to m
 ---
 
 ## 📊 GitHub Stats
+<!-- Top row: GitHub Stats + Top Languages -->
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tzezar&show_icons=true&theme=radical&count_private=true" width="48%" style="margin-right:2%"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiandrozd&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzezar&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tzezar&show_icons=true&theme=dark&count_private=true&hide_border=true&custom_title=Statistics" width="49%" />
 </p>
 
-<p align="center">
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tzezar&theme=radical" width="48%" style="margin-right:2%"/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzezar&theme=radical&hide_border=true" width="48%"/>
-</p>
+
+
+
+
+
 
 ---
 
