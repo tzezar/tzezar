@@ -1,24 +1,28 @@
-<h1 align="center">Sebastian Drozd</h1> <p align="center"> <em>Backend & System Architecture • Data-Oriented Design • Long-Term System Ownership</em> </p>
+<h1 align="center">Sebastian Drozd</h1>
+<p align="center">
+<em>Lead Backend Engineer & System Architect</em>
+</p>
 
-## About Me
+---
 
-I design backend architectures and define how systems are structured, how services communicate, and how data flows across the application.
+Building event-driven systems, Kafka pipelines, and infrastructure that handles real traffic. Svelte when I need a UI. Open source when I have something worth sharing.
 
-My work centers on establishing clear service boundaries, sustainable data models, and architectures that remain simple, performant, and maintainable as they evolve.
+Currently leading backend at a GPS fleet management company. 40k+ tracked devices, ~1000 frames/sec, microservices on AWS.
 
-I make decisions about **how the system should be built**, which technologies fit the problem space, and how the architecture should scale over time. I work across backend code, databases, infrastructure, and workflows as needed to keep the system coherent.
+### Stack
 
-## Responsibilities
-- Defining system and service architecture
-- Establishing data flow and service boundaries
-- Designing APIs and backend services
-- Shaping database structure and performance strategy
-- Selecting technologies and patterns appropriate to the system
-- Ensuring long-term maintainability and simplicity of the architecture
+**Backend:** TypeScript, Node.js, NestJS, Fastify, Kafka, Redis, PostgreSQL, TimescaleDB, Kysely
 
-## Engineering Principles
-- Simplicity over cleverness
-- Maintainability over short-term speed
-- Performance where it matters
-- Decisions made with long-term system evolution in mind
-  
+**Infrastructure:** AWS (ECS, MSK, RDS), Terraform, Docker, Grafana, GitHub Actions
+
+**Frontend:** Svelte 5, SvelteKit, Tailwind CSS, shadcn-svelte
+
+**Tools:** Nx monorepos, Vitest, Biome, WebSockets, gRPC
+
+### Open Source
+
+| Package | Description |
+|---------|-------------|
+| [tzezars-datagrid](https://github.com/tzezar/datagrid) | Headless datagrid for Svelte 5 |
+| [@tzezar/throtto](https://github.com/tzezar/throtto) | Rate limiting library, 7 algorithms, 6 stores, 18 framework adapters |
+| [shadcn-svelte-enhancements](https://github.com/tzezar/shadcn-svelte-enhancements) | Additional UI components for shadcn-svelte |
