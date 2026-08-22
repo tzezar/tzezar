@@ -7,4 +7,4 @@
 
 Building event-driven systems and infrastructure that handles real traffic. Leading backend at a GPS fleet management company. Started on a warehouse floor, now designing distributed systems.
 
-Based in Poland. More at [tzezar.dev](https://tzezar.dev).
+Based in Poland. More at [tzezar.pl](https://tzezar.pl).
